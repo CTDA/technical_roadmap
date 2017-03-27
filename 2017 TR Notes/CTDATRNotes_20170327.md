@@ -18,4 +18,7 @@ We currently have a timeline for our projects to improve performance that was sh
 
 * October 2017: We will continue to fine tune our upgrades and work on our new storage solution, Amplidata.It is not known at this time if any sites will require to be down. We will send out notifications via the CTDA Alert list.
 
-* December 2017: Our end of year maintenance will be performed. This will include a re-index. Participants will be asked to cease management activities for this re-index. Presentation sites will not be effected.
+* December 2017: Our end of year maintenance will be performed. This will include a re-index. Participants will be asked to cease management activities for this re-index. Presentation sites will not be effected.  
+
+![drafttimelineinfrastructure2017_2017_03](https://cloud.githubusercontent.com/assets/12433322/24376525/286b7370-130a-11e7-9073-f3720cc283af.png)
+
